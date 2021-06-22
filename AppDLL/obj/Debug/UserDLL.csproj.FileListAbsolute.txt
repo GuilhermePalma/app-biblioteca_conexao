@@ -1,0 +1,6 @@
+C:\Users\Guilherme\OneDrive - Etec Centro Paula Souza\Desenvolvimento\Em Processo - Web C#\BancoDados_Bibliotecas\AppDLL\bin\Debug\AppDLL.dll
+C:\Users\Guilherme\OneDrive - Etec Centro Paula Souza\Desenvolvimento\Em Processo - Web C#\BancoDados_Bibliotecas\AppDLL\bin\Debug\AppDLL.pdb
+C:\Users\Guilherme\OneDrive - Etec Centro Paula Souza\Desenvolvimento\Em Processo - Web C#\BancoDados_Bibliotecas\AppDLL\obj\Debug\UserDLL.csproj.AssemblyReference.cache
+C:\Users\Guilherme\OneDrive - Etec Centro Paula Souza\Desenvolvimento\Em Processo - Web C#\BancoDados_Bibliotecas\AppDLL\obj\Debug\UserDLL.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\OneDrive - Etec Centro Paula Souza\Desenvolvimento\Em Processo - Web C#\BancoDados_Bibliotecas\AppDLL\obj\Debug\AppDLL.dll
+C:\Users\Guilherme\OneDrive - Etec Centro Paula Souza\Desenvolvimento\Em Processo - Web C#\BancoDados_Bibliotecas\AppDLL\obj\Debug\AppDLL.pdb
